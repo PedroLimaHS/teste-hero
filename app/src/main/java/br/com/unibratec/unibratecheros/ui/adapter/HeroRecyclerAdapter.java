@@ -44,7 +44,7 @@ public class HeroRecyclerAdapter extends RecyclerView.Adapter<HeroRecyclerAdapte
 
         Picasso.get()
                 .load(hero.imagem)
-                .placeholder(R.drawable.ic_launcher_background)
+                .placeholder(R.drawable.imagenull)
                 .into(holder.image);
 
     }

@@ -15,7 +15,11 @@
     <string name="title_activity_teste">test</string>
 
 
-
+    //hero item
+    <string name="HIname">Name:</string>
+    <string name="HIrace">Race:</string>
+    <string name="HIgenero">Gender:</string>
+    <string name="HIeditor">Publisher:</string>
 
     //fragment power
     <string name="intelligence">Intelligence:</string>

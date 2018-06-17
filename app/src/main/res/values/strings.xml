@@ -14,7 +14,11 @@
     <string name="biografia">Biografia</string>
     <string name="title_activity_teste">teste</string>
 
-
+    //hero item
+    <string name="HIname">Nome:</string>
+    <string name="HIrace">Raça:</string>
+    <string name="HIgenero">Gênero:</string>
+    <string name="HIeditor">Editor:</string>
 
 
     //fragment power
@@ -28,9 +32,8 @@
 
     //fragment hero
     <string name="fullname">Nome completo:</string>
-    <string name="placeOfBirth">Local de nascimento:</string>
+    <string name="placeOfBirth">Local de Nasc.:</string>
     <string name="pfirst">Primeira aparição:</string>
-
 
 
     //MaterialDialog hero search

@@ -56,7 +56,7 @@ public class HeroFragment extends Fragment {
         name.setText(mHero.name);
         Picasso.get()
                 .load(mHero.imagem)
-                .placeholder(R.drawable.ic_launcher_background)
+                .placeholder(R.drawable.imagenull)
                 .into(imo);
 
     }

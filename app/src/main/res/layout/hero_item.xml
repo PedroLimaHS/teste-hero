@@ -46,7 +46,7 @@
                 android:layout_height="wrap_content"
                 android:padding="10dp"
                 android:layout_marginLeft="-7dp"
-                android:text="Name:"
+                android:text="@string/HIname"
                 android:textSize="15dp" />
 
             <TextView
@@ -55,7 +55,7 @@
                 android:layout_height="wrap_content"
                 android:padding="10dp"
                 android:layout_marginLeft="-7dp"
-                android:text="Race:"
+                android:text="@string/HIrace"
                 android:textSize="15dp" />
 
             <TextView
@@ -64,7 +64,7 @@
                 android:layout_height="wrap_content"
                 android:padding="10dp"
                 android:layout_marginLeft="-7dp"
-                android:text="Gênero:"
+                android:text="@string/HIgenero"
                 android:textSize="15dp" />
 
 
@@ -74,7 +74,7 @@
                 android:layout_height="wrap_content"
                 android:padding="10dp"
                 android:layout_marginLeft="-7dp"
-                android:text="Editor:"
+                android:text="@string/HIeditor"
                 android:textSize="15dp" />
 
         </LinearLayout>
