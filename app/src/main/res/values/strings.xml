@@ -1,0 +1,44 @@
+<resources>
+
+
+    <string name="app_name">HERÓIS</string>
+    <string name="notFound">Herói Não Localizado</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="search">Pesquisar</string>
+    <string name="text_serach">Digite o nome do Herói</string>
+    <string name="status">Status</string>
+    <string name="hero">Heróis</string>
+    <string name="biografia">Biografia</string>
+    <string name="title_activity_teste">teste</string>
+
+
+
+
+    //fragment power
+    <string name="intelligence">Inteligencia:</string>
+    <string name="strength">Força:</string>
+    <string name="speed">Velocidade:</string>
+    <string name="durability">Durabilidade:</string>
+    <string name="power">Poder:</string>
+    <string name="combat">Combate:</string>
+
+
+    //fragment hero
+    <string name="fullname">Nome completo:</string>
+    <string name="placeOfBirth">Local de nascimento:</string>
+    <string name="pfirst">Primeira aparição:</string>
+
+
+
+    //MaterialDialog hero search
+    <string name="MDattention">Atenção!!!</string>
+    <string name="MDheronotfound">Herói não Localizado!!!</string>
+    <string name="MDSearching">Procurando...</string>
+    <string name="MDplease">Por favor, Aguarde...</string>
+
+
+</resources>
+

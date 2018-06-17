@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">Hero</string>
+    <string name="notFound">Hero Not Found</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="text_serach">Enter the name of the Hero</string>
+    <string name="status">Status</string>
+    <string name="hero">Hero</string>-->
+    <string name="biografia">Biografia</string>
+    <string name="title_activity_teste">test</string>
+
+
+
+
+    //fragment power
+    <string name="intelligence">Intelligence:</string>
+    <string name="strength">Strength:</string>
+    <string name="speed">Speed:</string>
+    <string name="durability">Durability:</string>
+    <string name="power">Power:</string>
+    <string name="combat">Combat:</string>
+
+    //fragment hero
+    <string name="fullname">Full name:</string>
+    <string name="placeOfBirth">Place of birth:</string>
+    <string name="pfirst">First apparition:</string>
+
+
+    //MaterialDialog hero search
+    <string name="MDattention">Attention!!!</string>
+    <string name="MDheronotfound">Hero not found!!!</string>
+    <string name="MDSearching">Searching...</string>
+    <string name="MDplease">Please wait...</string>
+
+
+</resources>

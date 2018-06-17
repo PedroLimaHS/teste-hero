@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".view.ACOS">
+    <item
+        android:id="@+id/remove_hero"
+        android:orderInCategory="100"
+        android:icon="@drawable/lixo"
+        android:title="Remove"
+        app:showAsAction="ifRoom|collapseActionView"
+        />
+
+
+    <!--todo fazer o fragment land scape-->
+
+
+
+</menu>
